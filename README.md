@@ -1,4 +1,12 @@
 go to [boiwala](https://boiwala.netlify.app/)
-problems:
-1.orders page doesnt work
-2.it takes time to get img url
+features:
+1. you can add books as many as you want
+2. you can order books from here
+
+used technologies:
+1. react js
+2. react router
+3. firebase
+4. mongodb
+5. javascript
+6. bootstrap
